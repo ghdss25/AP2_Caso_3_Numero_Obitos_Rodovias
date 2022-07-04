@@ -2,12 +2,12 @@
 
 ** Análise de dados em Número de Obitos em Rodovias ** 
 
-* Conjunto de dados distribuido pelo Professor Lucas Magalhães para um trabalho final na Academia de Profissões 
+* Conjunto de dados distribuído pelo Professor Lucas Magalhães para um trabalho final na Academia de Profissões 
 que detalha um aumento substancial do número de óbitos em suas rodovias. Depois de conduzir inúmeras pesquisas, o Ministro da Infraestrutura estava seguro
 de que poderia reduzir esse problema alterando os incentivos das concessionárias responsáveis pelos trechos das rodovias. Após considerar inúmeras políticas alternativas para induzir as concessionárias a tornarem as
 rodovias sob sua responsabilidade mais seguras, o Ministro optou por um típico mecanismo de mercado. Alterou as regras contratuais de algumas concessionárias selecionadas aleatoriamente,
 oferecendo um pagamento adicional caso houvesse uma queda no número de óbitos. Com o objetivo de aferir o impacto dessa política, 
-construiu-se uma base de dados contendo os óbitos anuais em cada trecho das rodovias, bem como uma série de covariáveis. 
+construiu-se uma base de dados contendo os óbitos anuais em cada trecho das rodovias, bem como uma série de coráveis. 
 
 Foram respondidas as seguintes questões 
 
